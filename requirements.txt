@@ -1,0 +1,3 @@
+winotify==1.1.0
+git+https://github.com/ericz/Discord-S.C.U.M#egg=discum==1.4.1
+toml==0.10.2
